@@ -55,7 +55,7 @@ const html = `
   <body>
     <section>
       Hello from Harsha!
-      Have an Good day!
+      Have a Good day!
     </section>
   </body>
 </html>
